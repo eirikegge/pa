@@ -1,5 +1,5 @@
 # pa
-Predictive Analytics
+Predictive Analytics (CBS Course, M.Sc. Data Science)
 
 Files: 
  - Dataset:'DCOILBRENTEU.csv'
