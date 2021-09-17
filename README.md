@@ -1,16 +1,11 @@
 # pa
 Predictive Analytics
 
---Files--
-
-Dataset: 
- - 'DCOILBRENTEU.csv'
-Code:
- - 'code_brent_crude_oil.rmd'
-Research Paper:
- - 'final_paper.pdf'
-Appendix:
- - 'appendix_knitted_rmd.pdf'
+Files: 
+ - Dataset:'DCOILBRENTEU.csv'
+ - Code:'code_brent_crude_oil.rmd'
+ - Research Paper:'final_paper.pdf'
+ - Appendix:'appendix_knitted_rmd.pdf'
 
 
 --Abstract Research Paper--
